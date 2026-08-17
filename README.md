@@ -10,7 +10,6 @@ CreditStack AI is a modern, end-to-end intelligent credit risk assessment platfo
     *   🕵️ **Risk Analyst:** Translates raw SHAP values and probabilities into plain-English risk summaries.
     *   ⚖️ **Compliance Officer:** Audits the risk summary for fair-lending violations (e.g., protected demographic classes).
     *   ✉️ **Communication Agent:** Automatically drafts a professional applicant-facing letter if compliance passes.
-*   **Interactive Underwriter Assistant:** A chat interface allowing human underwriters to ask the LLM questions, fetch verification documents, or simulate alternative income/DTI scenarios live.
 *   **Custom Dataset Support:** Upload custom CSV datasets to instantly retrain the ML pipelines and evaluate candidates dynamically.
 *   **Persistent Storage:** Uses SQLite to store applicant decisions, historical agent runs, and chat histories.
 
